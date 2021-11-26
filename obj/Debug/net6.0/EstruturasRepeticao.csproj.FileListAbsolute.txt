@@ -1,0 +1,15 @@
+C:\Users\papon\Desktop\Treinamento C# .Net\EstruturasRepeticao\bin\Debug\net6.0\EstruturasRepeticao.exe
+C:\Users\papon\Desktop\Treinamento C# .Net\EstruturasRepeticao\bin\Debug\net6.0\EstruturasRepeticao.deps.json
+C:\Users\papon\Desktop\Treinamento C# .Net\EstruturasRepeticao\bin\Debug\net6.0\EstruturasRepeticao.runtimeconfig.json
+C:\Users\papon\Desktop\Treinamento C# .Net\EstruturasRepeticao\bin\Debug\net6.0\EstruturasRepeticao.dll
+C:\Users\papon\Desktop\Treinamento C# .Net\EstruturasRepeticao\bin\Debug\net6.0\ref\EstruturasRepeticao.dll
+C:\Users\papon\Desktop\Treinamento C# .Net\EstruturasRepeticao\bin\Debug\net6.0\EstruturasRepeticao.pdb
+C:\Users\papon\Desktop\Treinamento C# .Net\EstruturasRepeticao\obj\Debug\net6.0\EstruturasRepeticao.csproj.AssemblyReference.cache
+C:\Users\papon\Desktop\Treinamento C# .Net\EstruturasRepeticao\obj\Debug\net6.0\EstruturasRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\papon\Desktop\Treinamento C# .Net\EstruturasRepeticao\obj\Debug\net6.0\EstruturasRepeticao.AssemblyInfoInputs.cache
+C:\Users\papon\Desktop\Treinamento C# .Net\EstruturasRepeticao\obj\Debug\net6.0\EstruturasRepeticao.AssemblyInfo.cs
+C:\Users\papon\Desktop\Treinamento C# .Net\EstruturasRepeticao\obj\Debug\net6.0\EstruturasRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\papon\Desktop\Treinamento C# .Net\EstruturasRepeticao\obj\Debug\net6.0\EstruturasRepeticao.dll
+C:\Users\papon\Desktop\Treinamento C# .Net\EstruturasRepeticao\obj\Debug\net6.0\ref\EstruturasRepeticao.dll
+C:\Users\papon\Desktop\Treinamento C# .Net\EstruturasRepeticao\obj\Debug\net6.0\EstruturasRepeticao.pdb
+C:\Users\papon\Desktop\Treinamento C# .Net\EstruturasRepeticao\obj\Debug\net6.0\EstruturasRepeticao.genruntimeconfig.cache
